@@ -7,7 +7,6 @@ Click on the links below to go to the exercises.
 
 1. [Interacting with an existing FHIR server](https://github.com/Sourceless/get-started-with-fhir-servers/blob/master/exercises/1.md)
 2. [Standing up your own FHIR server](https://github.com/Sourceless/get-started-with-fhir-servers/blob/master/exercises/2.md)
-3. [FHIR Servers with profiles](https://github.com/Sourceless/get-started-with-fhir-servers/blob/master/exercises/3.md)
 
 ## What to look at next
 If you finish the exercises early, or are just curious, here's some things to look at:
